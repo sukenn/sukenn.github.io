@@ -9,6 +9,10 @@ export default [
       {
         title: "Reverse shell payload generator",
         url: "https://github.com/sukenn/reverse-shell-generator"
+      },
+      {
+        title: "CTF revshell",
+        url: "https://github.com/sukenn/ctf-revshell"
       }
     ]
   },
