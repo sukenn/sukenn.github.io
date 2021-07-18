@@ -1,17 +1,14 @@
 <template>
   <section class="section text-center">
     <img
-      src="../static/chainsaw-man.gif"
+      src="../static/main.gif"
       class="margin-bottom"
       width="400"
       height="auto"
       alt
     />
 
-    <h1 class="title-section">
-      Hugo
-      <a :href="contact.links.twitter" target="_blank">@sukenn</a>
-    </h1>
+    <h1 class="title-section">sukenn's website</h1>
 
     <p>Backend developer, cyber security student and ctf player...</p>
 
@@ -39,9 +36,9 @@ import contact from "../data/contact";
 export default Vue.extend({
   data() {
     return {
-      contact
+      contact,
     };
-  }
+  },
 });
 </script>
 
