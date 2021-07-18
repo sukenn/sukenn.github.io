@@ -36,9 +36,9 @@ import contact from "../data/contact";
 export default Vue.extend({
   data() {
     return {
-      contact,
+      contact
     };
-  },
+  }
 });
 </script>
 
