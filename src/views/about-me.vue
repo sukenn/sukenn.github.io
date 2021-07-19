@@ -8,7 +8,7 @@
       <table>
         <tr>
           <td class="bold"><strong>Languages</strong></td>
-          <td>Python, Javascript, PHP, C, etc</td>
+          <td>Python, Javascript, GO, PHP, C, etc</td>
         </tr>
         <tr>
           <td class="bold"><strong>Good at</strong></td>
@@ -90,7 +90,7 @@ import Vue from "vue";
 export default Vue.extend({
   data() {
     return {};
-  }
+  },
 });
 </script>
 <style>
