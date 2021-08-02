@@ -8,7 +8,7 @@
       <table>
         <tr>
           <td class="bold"><strong>Languages</strong></td>
-          <td>Python, Javascript, GO, PHP, C, etc</td>
+          <td>Javascript, Python, GO, PHP, C, etc</td>
         </tr>
         <tr>
           <td class="bold"><strong>Good at</strong></td>
@@ -16,18 +16,13 @@
         </tr>
         <tr>
           <td class="bold"><strong>Interested in</strong></td>
-          <td>Cyber security, Bug bounty, Binary exploitation</td>
+          <td>Cyber security, Bug bounty, OWASP</td>
         </tr>
       </table>
     </div>
 
     <div class="about-block">
       <h2>Experience</h2>
-
-      <td>
-        In general I have 2.5+ years of experience working as Software Developer
-      </td>
-      <br />
 
       <table>
         <tr>
@@ -57,30 +52,44 @@
       <h2>Education</h2>
       <table>
         <tr>
+          <td class="bold"><strong>Penetration Testing Student</strong></td>
+          <td>INE</td>
+          <td>Jul 2021 - Jul 2021</td>
+        </tr>
+        <tr>
           <td class="bold"><strong>Professional Pentest Course</strong></td>
           <td>Desec Security</td>
           <td>Dec 2020 - Jul 2021</td>
         </tr>
         <tr>
-          <td class="bold"><strong>Information System Bachelor</strong></td>
+          <td class="bold">
+            <strong>Information System Bachelor</strong>
+          </td>
           <td>JN University Center (UNIJUAZEIRO)</td>
           <td>Feb 2017 - Dec 2020 (4y)</td>
         </tr>
       </table>
     </div>
 
-    <!-- <div class="about-block">
+    <div class="about-block">
       <h2>Certifications</h2>
       <table>
         <tr>
+          <td class="bold">
+            <strong>eJPT</strong>
+          </td>
+          <td>eLearnSecurity</td>
+          <td>Aug 2021</td>
+        </tr>
+        <!-- <tr>
           <td class="bold">
             <strong>Desec Certified Penetration Tester (DCPT)</strong>
           </td>
           <td>Desec Security</td>
           <td>Dec 2021</td>
-        </tr>
+        </tr> -->
       </table>
-    </div> -->
+    </div>
   </section>
 </template>
 
