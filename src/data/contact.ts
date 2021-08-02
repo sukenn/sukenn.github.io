@@ -3,6 +3,7 @@ export default {
   discord: "sukenn#0487",
   links: {
     htb: "https://app.hackthebox.eu/profile/323852",
+    hackerone: "https://hackerone.com/sukenn",
     twitter: "https://twitter.com/sukennzx",
     github: "https://github.com/sukenn",
     telegram: "https://t.me/sukennzx",
