@@ -1,9 +1,9 @@
 <template>
   <section class="section text-center">
     <img
-      src="../static/main.gif"
+      src="../static/ichigo.gif"
       class="margin-bottom"
-      width="400"
+      width="180"
       height="auto"
       alt
     />
@@ -36,9 +36,9 @@ import contact from "../data/contact";
 export default Vue.extend({
   data() {
     return {
-      contact
+      contact,
     };
-  }
+  },
 });
 </script>
 
