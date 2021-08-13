@@ -10,24 +10,7 @@
       ><br /><br />
       * <a :href="contact.links.github" target="_blank">Github</a><br /><br />
       * <a :href="contact.links.twitter" target="_blank">Twitter</a><br /><br />
-      * <a :href="contact.links.telegram" target="_blank">Telegram</a
-      ><br /><br />
     </div>
-
-    <br />
-
-    <h2>Discord:</h2>
-    <p class="contact-block">
-      {{ contact.discord }}
-    </p>
-
-    <br />
-
-    <h2>Email:</h2>
-    <p class="contact-block">
-      &lt;{{ contact.email }}&gt; --
-      <a href="./publickey.asc">PGP PUBLIC KEY</a>
-    </p>
   </section>
 </template>
 
