@@ -8,7 +8,7 @@
       <table>
         <tr>
           <td class="bold"><strong>Languages</strong></td>
-          <td>Javascript, Python, GO, PHP, C, etc</td>
+          <td>Javascript, Python, PHP, C and learning GOLang</td>
         </tr>
         <tr>
           <td class="bold"><strong>Good at</strong></td>

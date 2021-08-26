@@ -1,9 +1,9 @@
 <template>
   <section class="section text-center">
     <img
-      src="../static/ichigo.gif"
+      src="../static/mikkimaus.gif"
       class="margin-bottom"
-      width="180"
+      width="250"
       height="auto"
       alt
     />
